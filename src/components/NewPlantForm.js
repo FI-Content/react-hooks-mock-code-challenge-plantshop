@@ -4,6 +4,7 @@ function NewPlantForm() {
   return (
     <div className="new-plant-form">
       <h2>New Plants</h2>
+      <h3>For New Plants</h3>
       <form>
         <input type="text" name="name" placeholder="Plant name" />
         <input type="text" name="image" placeholder="Image URL" />
